@@ -4,7 +4,7 @@ This is a demo project page. I will use this as a template for other project pag
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a demo project page. I will use this as a template for other project pages
 
 ```markdown
 Syntax highlighted code block
